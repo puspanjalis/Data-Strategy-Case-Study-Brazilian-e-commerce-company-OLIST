@@ -84,7 +84,7 @@ Similar to acquisition cost optimisation, price optimisation is also a balancing
 
 ## Technologies Used
 
-- Jyupter No
+- Jyupter Notebook
 - MS Office
 
   

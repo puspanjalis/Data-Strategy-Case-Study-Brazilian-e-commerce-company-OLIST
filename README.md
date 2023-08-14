@@ -1,1 +1,1 @@
-# Data-Strategy-Case-Study-Brazilian-e-commerce-company-OLIST-
+# Data Strategy Case Study : OLIST- Brazilian e-commerce company 

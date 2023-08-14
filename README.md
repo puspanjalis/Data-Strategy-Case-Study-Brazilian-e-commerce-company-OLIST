@@ -29,20 +29,7 @@ The company is looking to leverage the power of analytics to improve its process
 
 Now, there are certain constraints in the company; the company has set up the data science team recently. The team is small, and resources are limited. Given such a situation, we have to choose the right roadmap for DS adoption based on the size, feasibility, complexity and value of the use case.
 
-We are required to create a presentation that will demonstrate the road to DS adoption and the monetary benefits that will accompany the adoption that contains: 
-
-  - Company objective
-  - Impact of the project on the company objective
-  - Feasibility check of the project 
-  - Data and skill requirements for the project
-  - DS solution approach (Refer to the module on Data Strategy)
-  - Changes in the current process on account of adopting the solution 
-  - Developing a proof of concept
-  - Suitable success metric 
-  - Estimated monetary benefits of the project
-
-
-
+We are required to create a presentation that will demonstrate the road to DS adoption and the monetary benefits that will accompany the adoption.
 
 - ### What is the dataset that is being used?
   
